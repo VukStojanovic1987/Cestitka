@@ -4,4 +4,4 @@ Cestitka is an application for creating personalized New Year's greeting cards, 
 
 ![App Image](https://github.com/vukstojanovic1987/Cestitka/blob/master/Screenshot.png)
 
-Copyrights © Vuk Stojanović. All rights reserved.
+Copyright © Vuk Stojanović, 2016. All rights reserved.
